@@ -20,6 +20,10 @@ This project implements the River Crossing Puzzle Game using OpenGL, GLFW, Glad,
 - Assimp
 - SFML
 
+### Test the game
+if you are on windows you can download the .rar file from this [link](https://drive.google.com/file/d/1bNo6hrjzTAfh5Y81zqyxEIHadYoYb2Bz/view?usp=sharing), and run the .exe file to lunch the game
+
+
 ### Installation
 
 1. Clone the repository:
