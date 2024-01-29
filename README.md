@@ -6,7 +6,7 @@ The River Crossing Puzzle Game is a classic puzzle that involves a farmer transp
 
 This project implements the River Crossing Puzzle Game using OpenGL, GLFW, Glad, GLM, and other libraries for graphics rendering, along with additional features such as text rendering and user interface elements.
 
-![Initial Design](screenshots/initial_design.jpg)
+![Initial Design](screenshots/screenshot_text_rendering.png)
 
 ## Project Setup
 
