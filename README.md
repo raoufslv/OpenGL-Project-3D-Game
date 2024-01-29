@@ -18,6 +18,7 @@ This project implements the River Crossing Puzzle Game using OpenGL, GLFW, Glad,
 - stb_image
 - gltext
 - Assimp
+- SFML
 
 ### Installation
 
@@ -77,3 +78,4 @@ Feel free to contribute, report issues, or provide feedback.
 - [stb_image](https://github.com/nothings/stb)
 - [gltext](https://github.com/vallentin/glText)
 - [Assimp](https://www.assimp.org/)
+- [SFML](https://www.sfml-dev.org/)
