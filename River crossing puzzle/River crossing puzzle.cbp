@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="River crossing puzzle" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/River crossing puzzle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/River crossing puzzle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="../includes" />
+			<Add directory="../libs/sfml" />
+			<Add directory="../libs" />
+		</Compiler>
+		<Linker>
+			<Add library="../libs/glfw/libglfw3.a" />
+			<Add library="../libs/glfw/libglfw3dll.a" />
+			<Add library="../libs/sfml/libopenal32.a" />
+			<Add library="../libs/sfml/libsfml-audio.a" />
+			<Add library="../libs/sfml/libsfml-system.a" />
+			<Add library="../libs/assmip/libassimp.dll.a" />
+		</Linker>
+		<Unit filename="../libs/glad/glad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../libs/objloader/objload.cpp" />
+		<Unit filename="../libs/objloader/objload.hpp" />
+		<Unit filename="../libs/shader/shader.cpp" />
+		<Unit filename="../libs/shader/shader.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="model/boat.obj" />
+		<Unit filename="model/campfire.obj" />
+		<Unit filename="model/cloud.obj" />
+		<Unit filename="model/farmer.obj" />
+		<Unit filename="model/forestC2.obj" />
+		<Unit filename="model/latest_forest2.obj" />
+		<Unit filename="model/latest_forest_campfire2.obj" />
+		<Unit filename="model/sheap.obj" />
+		<Unit filename="model/tben.obj" />
+		<Unit filename="model/wolf.obj" />
+		<Unit filename="rtx.cpp" />
+		<Unit filename="shader/SimpleFragmentShader.fragmentshader" />
+		<Unit filename="shader/SimpleVertexShader.vertexshader" />
+		<Unit filename="sounds/goat_normal.wav" />
+		<Unit filename="sounds/goat_scream.wav" />
+		<Unit filename="sounds/sheep_eat_tben.wav" />
+		<Unit filename="sounds/wolf_eat_sound.wav" />
+		<Unit filename="test.cpp" />
+		<Unit filename="test2.cpp" />
+		<Unit filename="textures/boat.PNG" />
+		<Unit filename="textures/campfire.jpg" />
+		<Unit filename="textures/cloud.png" />
+		<Unit filename="textures/farmer.jpg" />
+		<Unit filename="textures/icon.png" />
+		<Unit filename="textures/river.png" />
+		<Unit filename="textures/sheap.jpg" />
+		<Unit filename="textures/tben.png" />
+		<Unit filename="textures/wolf.jpg" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

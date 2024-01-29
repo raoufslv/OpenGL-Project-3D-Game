@@ -1,0 +1,945 @@
+# depslib dependency file v1.0
+1703981337 source:d:\study\m2\sim project\river crossing puzzle\main.cpp
+
+1698744927 d:\study\m2\sim project\includes\glad\glad.h
+	<KHR/khrplatform.h>
+
+1698739792 d:\study\m2\sim project\includes\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1658496778 d:\study\m2\sim project\includes\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<GL/glext.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1420280586 d:\study\m2\sim project\includes\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\_fixes.hpp
+	<cmath>
+
+1420280586 d:\study\m2\sim project\includes\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1424013750 d:\study\m2\sim project\includes\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\precision.hpp
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\_swizzle.hpp
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\_swizzle_func.hpp
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec2.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec3.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_vec4_sse2.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_vec4_avx.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_vec4_avx2.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat2x2.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat2x3.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat2x4.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat3x2.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat3x3.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat3x4.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat4x2.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat4x3.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_mat4x4.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\detail\type_vec1.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_vector_relational.inl
+	<limits>
+
+1420280586 d:\study\m2\sim project\includes\glm\common.hpp
+	"detail/func_common.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1423994624 d:\study\m2\sim project\includes\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1420280586 d:\study\m2\sim project\includes\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1423516828 d:\study\m2\sim project\includes\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1423516828 d:\study\m2\sim project\includes\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\type_half.inl
+
+1420280586 d:\study\m2\sim project\includes\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1420280586 d:\study\m2\sim project\includes\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1420280586 d:\study\m2\sim project\includes\glm\gtx\transform.hpp
+	"../glm.hpp"
+	"../gtc/matrix_transform.hpp"
+	"transform.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1420280586 d:\study\m2\sim project\includes\glm\gtc\constants.inl
+	<limits>
+
+1420829384 d:\study\m2\sim project\includes\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1420280586 d:\study\m2\sim project\includes\glm\gtx\transform.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/OutputSoundFile.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundFileFactory.hpp>
+	<SFML/Audio/SoundFileReader.hpp>
+	<SFML/Audio/SoundFileWriter.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1539635488 d:\study\m2\sim project\includes\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1539635488 d:\study\m2\sim project\includes\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\utf.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\string.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\thread.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\threadlocalptr.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\vector2.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525812018 d:\study\m2\sim project\includes\sfml\system\vector3.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\inputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<algorithm>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Mutex.hpp>
+	<cstdlib>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\alresource.hpp
+	<SFML/Audio/Export.hpp>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\outputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<string>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundfilefactory.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+	<vector>
+	<SFML/Audio/SoundFileFactory.inl>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundfilefactory.inl
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundfilereader.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1525812018 d:\study\m2\sim project\includes\sfml\audio\soundfilewriter.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1698745992 source:d:\study\m2\sim project\libs\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1703674929 d:\study\m2\sim project\libs\stb_image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1392930383 d:\study\m2\sim project\libs\shader\shader.hpp
+
+1703788926 d:\study\m2\sim project\libs\objloader\objload.hpp
+	<vector>
+	<iostream>
+
+1703980889 source:d:\study\m2\sim project\libs\objloader\objload.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"objload.hpp"
+
+1703959185 source:d:\study\m2\sim project\libs\shader\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	"shader.hpp"
+
+1704018676 source:d:\study\m2\sim project\river crossing puzzle\rtx.cpp
+
+1706516642 source:d:\study\m2\sim project\river crossing puzzle\test.cpp
+
+1703867879 d:\study\m2\sim project\includes\assimp\importer.hpp
+	<assimp/types.h>
+	<exception>
+
+1703867879 d:\study\m2\sim project\includes\assimp\types.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<assimp/defs.h>
+	<assimp/vector2.h>
+	<assimp/vector3.h>
+	<assimp/color4.h>
+	<assimp/matrix3x3.h>
+	<assimp/matrix4x4.h>
+	<assimp/quaternion.h>
+	<cstring>
+	<new>
+	<string>
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+	"quaternion.inl"
+
+1703867879 d:\study\m2\sim project\includes\assimp\defs.h
+	<assimp/config.h>
+
+1703973522 d:\study\m2\sim project\includes\assimp\config.h
+
+1703867879 d:\study\m2\sim project\includes\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"defs.h"
+
+1703867879 d:\study\m2\sim project\includes\assimp\vector3.h
+	<cmath>
+	<math.h>
+	<assimp/defs.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\color4.h
+	<assimp/defs.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\matrix3x3.h
+	<assimp/defs.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\matrix4x4.h
+	<assimp/vector3.h>
+	<assimp/defs.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\quaternion.h
+	<assimp/defs.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\vector2.inl
+	<assimp/vector2.h>
+	<cmath>
+
+1703867879 d:\study\m2\sim project\includes\assimp\vector3.inl
+	<assimp/vector3.h>
+	<cmath>
+
+1703867879 d:\study\m2\sim project\includes\assimp\color4.inl
+	<assimp/color4.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\matrix3x3.inl
+	<assimp/matrix3x3.h>
+	<assimp/matrix4x4.h>
+	<algorithm>
+	<cmath>
+	<limits>
+
+1703867879 d:\study\m2\sim project\includes\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	"MathFunctions.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1703867879 d:\study\m2\sim project\includes\assimp\mathfunctions.h
+	<limits>
+
+1703867879 d:\study\m2\sim project\includes\assimp\quaternion.inl
+	<assimp/quaternion.h>
+	<cmath>
+
+1703867879 d:\study\m2\sim project\includes\assimp\scene.h
+	<assimp/types.h>
+	<assimp/texture.h>
+	<assimp/mesh.h>
+	<assimp/light.h>
+	<assimp/camera.h>
+	<assimp/material.h>
+	<assimp/anim.h>
+	<assimp/metadata.h>
+	<cstdlib>
+
+1703867879 d:\study\m2\sim project\includes\assimp\texture.h
+	<assimp/types.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1703867879 d:\study\m2\sim project\includes\assimp\compiler\pushpack1.h
+
+1703867879 d:\study\m2\sim project\includes\assimp\compiler\poppack1.h
+
+1703867879 d:\study\m2\sim project\includes\assimp\mesh.h
+	<assimp/aabb.h>
+	<assimp/types.h>
+	<unordered_set>
+
+1703867879 d:\study\m2\sim project\includes\assimp\aabb.h
+	<assimp/vector3.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\light.h
+	<assimp/types.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\camera.h
+	"types.h"
+
+1703867879 d:\study\m2\sim project\includes\assimp\material.h
+	<assimp/types.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1703867879 d:\study\m2\sim project\includes\assimp\material.inl
+
+1703867879 d:\study\m2\sim project\includes\assimp\anim.h
+	<assimp/quaternion.h>
+	<assimp/types.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\metadata.h
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<assimp/quaternion.h>
+	<string>
+
+1703867879 d:\study\m2\sim project\includes\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1703867879 d:\study\m2\sim project\includes\assimp\postprocess.h
+	<assimp/types.h>
+
+1420280586 d:\study\m2\sim project\includes\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1424001530 d:\study\m2\sim project\includes\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1420280586 d:\study\m2\sim project\includes\glm\gtc\type_ptr.inl
+	<cstring>
+
+1704018840 d:\study\m2\sim project\libs\gltext\gltext.h
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<assert.h>
+	<stdio.h>
+
+1706516941 source:d:\study\m2\sim project\river crossing puzzle\test2.cpp
+	<iostream>
+	"stb_image/stb_image.h"
+	<vector>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtx/transform.hpp"
+	"gltext/gltext.h"
+	<SFML/Audio.hpp>
+

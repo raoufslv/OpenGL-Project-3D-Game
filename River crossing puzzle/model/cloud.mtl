@@ -1,0 +1,46 @@
+# Blender 3.4.1 MTL File: 'cloud.blend'
+# www.blender.org
+
+newmtl lambert2
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+illum 2
+map_Ke cloud  big-files/glow.jpg
+map_d cloud  big-files/Default Material_Opacity Background.png
+map_Bump -bm 1.000000 cloud  big-files/Default Material_cloudnormals.png
+
+newmtl lambert2.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+illum 2
+map_Ke cloud  big-files/glow.jpg
+map_d cloud  big-files/Default Material_Opacity Background.png
+map_Bump -bm 1.000000 cloud  big-files/Default Material_cloudnormals.png
+
+newmtl lambert2.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+illum 2
+map_Ke cloud  big-files/glow.jpg
+map_d cloud  big-files/Default Material_Opacity Background.png
+map_Bump -bm 1.000000 cloud  big-files/Default Material_cloudnormals.png
+
+newmtl lambert2.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+illum 2
+map_Ke cloud  big-files/glow.jpg
+map_d cloud  big-files/Default Material_Opacity Background.png
+map_Bump -bm 1.000000 cloud  big-files/Default Material_cloudnormals.png

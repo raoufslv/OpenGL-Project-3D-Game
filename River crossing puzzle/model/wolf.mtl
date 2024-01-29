@@ -1,0 +1,12 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl _0055_Gray_Wolf
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/Study/M2/SIM/models/Gray_Wolf_V1_L3.123c2a370c2c-0140-4b67-ba7f-79f22d7ab6ed/10055_Gray_Wolf_Diffuse_v1.jpg

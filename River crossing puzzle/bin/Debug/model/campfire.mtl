@@ -1,0 +1,35 @@
+# Blender 3.4.1 MTL File: 'campfire_talia.blend'
+# www.blender.org
+
+newmtl rocks_texture
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/rocks_diffuse.jpg
+map_Ks D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/rocks_specular.jpg
+map_Bump -bm 1.000000 D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/rocks_normal.jpg
+
+newmtl utensilrope_texture
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/utensilrope_diffuse.jpg
+map_Ks D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/utensilrope_specular.jpg
+map_Bump -bm 1.000000 D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/utensilrope_normal.jpg
+
+newmtl woods_and_ground_texture
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/woodsground_diffuse.jpg
+map_Ks D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/woodsground_specular.jpg
+map_Ke D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/woodsground_glow.jpg
+map_Bump -bm 1.000000 D:/Work-Station/blender projects/2ue50ws967mo-campfire_model/Textures/woodsground_normal.jpg
