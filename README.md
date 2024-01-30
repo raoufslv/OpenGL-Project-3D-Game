@@ -1,7 +1,7 @@
 # River Crossing Puzzle Game
 
 ## Demo 
-![Youtube Demo](https://youtu.be/D9H7WFxlFcU)
+[Youtube Demo](https://youtu.be/D9H7WFxlFcU)
 
 ## Introduction
 
